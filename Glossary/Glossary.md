@@ -9,11 +9,43 @@
 - [ ] <div title="批评">criticized</div>
 - [ ] <div title="连续不断的">continuous</div>
 - [ ] <div title="摘要">abstract</div>
+- [ ] <div title="讨论，辩论">debate</div>
+- [ ] <div title="足够的，适当的">adequate</div>
+- [ ] <div title="支出，花费">expenditure</div>
+- [ ] <div title="争论">controversy</div>
+- [ ] <div title="建筑学的">architectural</div>
+- [ ] <div title="结构">structure</div>
+- [ ] <div title="图书管理员">librarian</div>
+- [ ] <div title="便宜的">affordable</div>
+- [ ] <div title="待议事项">agenda</div>
+- [ ] <div title="初步的，预备的">preliminary</div>
+
 
 
 # 不知道意思
 - [ ] <div title="瘾；入迷">addiction</div>
 - [ ] <div title="评价">assessments</div>
-
-
-
+- [ ] <div title="药剂师">pharmacists</div>
+- [ ] <div title="专利">patent</div>
+- [ ] <div title="运河">canal</div>
+- [ ] <div title="苏伊士运河">Suez Canal</div>
+- [ ] <div title="年代学">chronology</div>
+- [ ] <div title="水管工人，水电工">plumber</div>
+- [ ] <div title="便携式的，轻便的">portable</div>
+- [ ] <div title="设备，器具">apparatus</div>
+- [ ] <div title="水中呼吸器，水肺">aqualung</div>
+- [ ] <div title="伪装，隐蔽">camouflage</div>
+- [ ] <div title="四重奏">quartet</div>
+- [ ] <div title="两周">fortnight</div>
+- [ ] <div title="同义词">synonym</div>
+- [ ] <div title="古生物学者">paleontologist</div>
+- [ ] <div title="护目镜">goggles</div>
+- [ ] <div title="合成的，人造的">synthetic</div>
+- [ ] <div title="厌倦">fed up</div>
+- [ ] <div title="胃口，食欲">appetie</div>
+- [ ] <div title="衰退">recession</div>
+- [ ] <div title="极大的，巨大的">immense</div>
+- [ ] <div title="掌声，喝彩">applause</div>
+- [ ] <div title="公顷">hectare</div>
+- [ ] <div title="财政的">fiscal</div>
+- [ ] <div title="按照，依据">accordance</div>
