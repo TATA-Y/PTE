@@ -19,6 +19,7 @@
 - [ ] <div title="便宜的">affordable</div>
 - [ ] <div title="待议事项">agenda</div>
 - [ ] <div title="初步的，预备的">preliminary</div>
+- [ ] <div title="烹饪法，食谱">recipe</div>
 
 
 
@@ -49,3 +50,5 @@
 - [ ] <div title="公顷">hectare</div>
 - [ ] <div title="财政的">fiscal</div>
 - [ ] <div title="按照，依据">accordance</div>
+- [ ] <div title="伪装，隐蔽">camouflage</div>
+- [ ] <div title="业余爱好者">amateur</div>
