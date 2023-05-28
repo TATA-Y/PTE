@@ -1,5 +1,14 @@
 # PTE刷题笔记
 
+
+
+## 重要必刷题型
+### RS, WFD, RA, RO, DI, SST, FIB-R&W, Essay, FIB-L, FIB-R
+- Listening: RS, WFD
+- Reading: RA, FIB-R&W, FIB-R, RO
+- Speaking: RS, RA, DI
+- Writing: WFD, FIB-R&W, Essay, FIB-L, SST
+
 ## 各题型刷题方法
 
 所有出现不会单词都要记录单词本积累
@@ -39,3 +48,7 @@
 ### 大作文
 
 考前30个topic全部过完，每天1题
+
+## 题型占分百分比
+
+![题型占分百分比](Image/question_type_percentage.png)
