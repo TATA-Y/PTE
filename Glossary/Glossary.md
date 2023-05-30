@@ -52,3 +52,14 @@
 - [ ] <div title="按照，依据">accordance</div>
 - [ ] <div title="伪装，隐蔽">camouflage</div>
 - [ ] <div title="业余爱好者">amateur</div>
+- [ ] <div title="君主政体">monarchy</div>
+- [ ] <div title="农民">peasant</div>
+- [ ] <div title="入店行窃">Shoplifting</div>
+- [ ] <div title="皮肤科医生">dermatologist</div>
+- [ ] <div title="眼科医师">ophthalmologist</div>
+- [ ] <div title="鸟类学家">ornithologists</div>
+- [ ] <div title="千年期">Millennium</div>
+- [ ] <div title="阁楼">penthouse</div>
+- [ ] <div title="必需品">necessity</div>
+- [ ] <div title="解放，使不受（法律、政治或社会的）束缚">emancipate</div>
+- [ ] <div title="逐步上升">escalating</div>
