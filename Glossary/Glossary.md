@@ -63,3 +63,6 @@
 - [ ] <div title="必需品">necessity</div>
 - [ ] <div title="解放，使不受（法律、政治或社会的）束缚">emancipate</div>
 - [ ] <div title="逐步上升">escalating</div>
+- [ ] <div title="专题论文">dissertation</div>
+- [ ] <div title="骡">mule</div>
+- [ ] <div title="画，绘制；拖，拉">drawn</div>
