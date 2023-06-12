@@ -12,3 +12,10 @@
 - [ ] conjunction:结合，同时发生
 - [ ] feasible:可行的，办得到的
 - [ ] rational:理性的
+- [ ] Fragile:易碎,脆弱
+
+
+### WFD
+- [ ] prestigious:享有声望的
+- [ ] firm:商行
+- [ ] 
