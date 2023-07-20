@@ -8,4 +8,4 @@
 ![Essay_Template](../Image/essay_template.png)
 
 # SWT Template
-![SWT_Template](../Image/SWT_template.png)
+![SWT_Template](../Image/SWT_template.png)  
